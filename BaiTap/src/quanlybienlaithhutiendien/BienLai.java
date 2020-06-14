@@ -37,6 +37,6 @@ public class BienLai {
 		khachHang.hienThiThongTinKhachHang();
 		System.out.println(" _Ma  so cu: " + chiSoCu);
 		System.out.println(" _Ma so moi: " + chiSoMoi);
-		System.out.println(" _So tien phai tra: " + soTienPhaiTra);
+		System.out.println(" _So tien phai tra la: " + soTienPhaiTra);
 	}
 }
